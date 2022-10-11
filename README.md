@@ -18,7 +18,7 @@ dobro">
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Pra conteúdo sobre programação me segue nas redes abaixo!
  
 <div> 
   
