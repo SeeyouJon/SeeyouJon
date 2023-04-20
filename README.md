@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do SeeyouJon 😁
+## Bem-vindo(a) ao perfil de SeeyouJon 😁
 
  <div>
    <a href="https://github.com/devemdobro">
